@@ -1,0 +1,7 @@
+C:\Users\helpi\source\repos\BlazorApp1-web-azure\obj\Release\net8.0\PubTmp\Out\BlazorApp1-web-azure.exe
+C:\Users\helpi\source\repos\BlazorApp1-web-azure\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\helpi\source\repos\BlazorApp1-web-azure\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\helpi\source\repos\BlazorApp1-web-azure\obj\Release\net8.0\PubTmp\Out\BlazorApp1-web-azure.dll
+C:\Users\helpi\source\repos\BlazorApp1-web-azure\obj\Release\net8.0\PubTmp\Out\BlazorApp1-web-azure.deps.json
+C:\Users\helpi\source\repos\BlazorApp1-web-azure\obj\Release\net8.0\PubTmp\Out\BlazorApp1-web-azure.runtimeconfig.json
+C:\Users\helpi\source\repos\BlazorApp1-web-azure\obj\Release\net8.0\PubTmp\Out\BlazorApp1-web-azure.pdb
